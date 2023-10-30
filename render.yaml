@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ip-ura-ksik-slim2
+    name: ipad-urakaihatu-slim2-test
     env: python
     region: Oregon
     plan: free
