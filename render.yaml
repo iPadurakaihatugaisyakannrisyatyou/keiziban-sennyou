@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ipad-urakaihatu-slim2-test
+    name: soum-slim2
     env: python
     region: Oregon
     plan: free
