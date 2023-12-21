@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: haihuyou-kousiki-ryousan-type-slim2
+    name: keizibann-sennyou-test
     env: python
     region: Oregon
     plan: free
